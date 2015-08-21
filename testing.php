@@ -20,6 +20,6 @@ add_action('admin_menu', 'carp_admin_menu');
 
 add_action('gform_entry_created','carp_trigger',10,2);
 
-dA
+dAa
 
 ?>
